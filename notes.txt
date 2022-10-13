@@ -1,3 +1,0 @@
-
-
-jupyter notebook --notebook-dir=D:\NIKHIL\Projects\RealTimeObjectDetection
