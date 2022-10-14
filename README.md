@@ -1,5 +1,6 @@
 # Sign Language Recognition
-This is a Sign Language Recognizer made using OpenCV and TensorFlow.
+This is a Sign Language Recognizer made using OpenCV and TensorFlow. <br>
+View the tutorial [here](https://youtu.be/pDXdlXlaCco).
 
 # Requirements
 * Python
