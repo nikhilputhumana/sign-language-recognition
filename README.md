@@ -5,7 +5,7 @@ View the tutorial [here](https://youtu.be/pDXdlXlaCco).
 # Requirements
 * Python
 * Jupyter notebook
-* Pip
+* [Pip](https://pypi.org/project/pip/)
 * [labelImg](https://pypi.org/project/labelImg/1.4.0/)
 
 (Rest will be updated soon)
