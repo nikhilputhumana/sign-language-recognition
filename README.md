@@ -6,10 +6,11 @@ View the tutorial [here](https://youtu.be/pDXdlXlaCco).
 * Python
 * Jupyter notebook
 * Pip
+* [labelImg](https://pypi.org/project/labelImg/1.4.0/)
 
 (Rest will be updated soon)
 
-Install Jupyter Notebook and Python by clicking [here.](https://www.anaconda.com/)
+Install Jupyter Notebook and Python [here.](https://www.anaconda.com/)
 
 # Usage
 ## Opening Jupyter notebook
